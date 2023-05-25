@@ -1,3 +1,6 @@
+## Project
+This is a compiler for my own custom programming language! I haven't actually named the language because this project was primarily made for my own learning and not particularly for full real-world usage. The language is object-oriented, but currently only supports addition and integer as well as floating-point numbers; hence, the language is not Turing-Complete. Moreover, if I wanted full Turing-Completeness, I would need to add support for conditional statements and boolean values. But regardless, the language does fully support objects by using a prototype-based model.
+
 ## Package Management
 
 We use [NPM](https://npmjs.com) for package management.
